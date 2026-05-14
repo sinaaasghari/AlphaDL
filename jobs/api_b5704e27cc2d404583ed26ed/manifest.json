@@ -1,0 +1,27 @@
+{
+  "job_id": "api_b5704e27cc2d404583ed26ed",
+  "mode": "zip_split",
+  "file_url": "https://free-dl2.myalphadl.com/VIMWY2q2nLsDbe4RRt23Vg/Euphoria.S01E01.720p.SoftSub.WEB.DL.x265.mkv",
+  "suggested_filename": "Euphoria.S01E01.720p.SoftSub.WEB.DL.x265.mkv",
+  "total_size_bytes": 277259982,
+  "created_at_utc": "2026-05-14T17:58:42.110667+00:00",
+  "zip_folder": "jobs/api_b5704e27cc2d404583ed26ed/zip",
+  "zip_main_file": "Euphoria.S01E01.720p.SoftSub.WEB.DL.x265_split.zip",
+  "zip_parts": [
+    {
+      "name": "Euphoria.S01E01.720p.SoftSub.WEB.DL.x265_split.z01",
+      "path": "jobs/api_b5704e27cc2d404583ed26ed/zip/Euphoria.S01E01.720p.SoftSub.WEB.DL.x265_split.z01",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Euphoria.S01E01.720p.SoftSub.WEB.DL.x265_split.z02",
+      "path": "jobs/api_b5704e27cc2d404583ed26ed/zip/Euphoria.S01E01.720p.SoftSub.WEB.DL.x265_split.z02",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Euphoria.S01E01.720p.SoftSub.WEB.DL.x265_split.zip",
+      "path": "jobs/api_b5704e27cc2d404583ed26ed/zip/Euphoria.S01E01.720p.SoftSub.WEB.DL.x265_split.zip",
+      "size_bytes": 88516544
+    }
+  ]
+}
